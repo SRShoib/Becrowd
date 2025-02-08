@@ -1,1 +1,2 @@
-MATHEMATICS problems Soled in C and C++
+# MATHEMATICS
+Problems Soled in C and C++
