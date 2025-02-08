@@ -1,1 +1,2 @@
-PARADIGMS problems Soled in C and C++
+# PARADIGMS
+Problems Soled in C and C++
