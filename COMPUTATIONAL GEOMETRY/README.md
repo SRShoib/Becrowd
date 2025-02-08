@@ -1,1 +1,2 @@
-COMPUTATIONAL GEOMETRY problems Solved in C and C++
+# COMPUTATIONAL GEOMETRY
+Problems Solved in C and C++
