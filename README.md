@@ -1,2 +1,2 @@
 # Beecrowd
-Here my all solved Becrowd problems in C and C++
+Here my all solved Beecrowd problems in C and C++
