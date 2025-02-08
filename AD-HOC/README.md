@@ -1,2 +1,2 @@
-AD-HOC problems
-Solved in C and C++
+# AD-HOC
+Problems Solved in C and C++
