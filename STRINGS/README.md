@@ -1,1 +1,2 @@
-STRINGS problems Solved in C and C++
+# STRINGS
+Problems Solved in C and C++
